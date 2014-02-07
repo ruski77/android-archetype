@@ -1,0 +1,9 @@
+#Sun Jan 30 00:58:47 CET 2011
+activeProfiles=softphone,android
+eclipse.preferences.version=1
+fullBuildGoals=process-test-resources
+includeModules=false
+resolveWorkspaceProjects=true
+resourceFilterGoals=process-resources resources\:testResources
+skipCompilerPlugin=true
+version=1
